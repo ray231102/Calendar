@@ -2,4 +2,4 @@
 
 Aplikasi yang berguna untuk melihat calendar
 
-![screenshot](calender.jpeg)
+![screenshot](calendar.jpeg)
